@@ -13,3 +13,7 @@
  - roslaunch turtlebot3_bringup turtlebot3_core_rplidar.launch   ---->   turtlebot3 node 
  - roslaunch realsense2_camera rs_camera.launch     ---->    realsnese d435i node
  - roslaunch realsense2_camera opensource_tracking2.launch     ---->    rtabmap
+ 
+#####
+4. additional 
+ -  roslaunch explore_lite rtab_explore.launch
